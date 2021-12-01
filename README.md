@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RevoZero
-- 👀 I’m interested in coding, still newbie
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on (no for this time)
+- 👀 I’m interested in Front end developer, and still newbie
+- 🌱 I’m currently learning python, HTML, CSS, and Javascript
 - 📫 How to reach me send me dm
 
 <!---
